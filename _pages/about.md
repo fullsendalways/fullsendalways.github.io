@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Yuzhen](https://ems.whu.edu.cn/info/
 
 You can find my CV here: [Shen Qingyu's Curriculum Vitae](assets/申庆昱简历20250323.pdf)
 
-[Email](mailto:shenqingyu0114@163.com)/[Github](https://github.com/fullsendalways)/[Wechat](wechat.jpg)
+[Email](mailto:shenqingyu0114@163.com) / [Github](https://github.com/fullsendalways) / [Wechat](images/wechat.jpg)
 
 
 A data-driven personal website
