@@ -17,6 +17,6 @@ You can find my CV here: [Shen Qingyu's Curriculum Vitae](assets/申庆昱简历
 Contact me
 ======
 
-Email: shenqingyu0114@163.com          shenqingyu@whu.edu.cn
-       
+Email: shenqingyu0114@163.com
+
 Wechat: Capricorn_kanki
