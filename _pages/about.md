@@ -11,12 +11,14 @@ I'm a first year postgraduate student from [Economics and Management School](htt
 
 I am very fortunate to be advised by [Prof. Yuzhen](https://ems.whu.edu.cn/info/1688/11106.htm), the dean of Hongyi Honor College of Wuhan University. 
 
+I plan to enter the industry after completing my graduate studies and am currently actively searching for high-quality internships. If your company could offer me an opportunity, I would be extremely grateful!
+
 You can find my CV here: [Shen Qingyu's Curriculum Vitae](assets/申庆昱简历20250323.pdf)
 
 Education Background
 ======
 
-2024.09-2027.06 Wuhan University，Master of Ecnonomy
+2024.09-2027.06 Wuhan University，Master of Economy
 
 2019.09-2024.06 Shandong University，Bachelor of Politics & Economy
 
