@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Shen Qingyu's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Shen Qingyu"
   pronouns         : # example: "she/her"  
   bio              : "More than a dreamer"
-  location         : "China"
+  location         : "China Wuhan"
   employer         : "Wuhan University"
   uri              : # URL
   email            : "shenqingyu0114@163.com" 
