@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year postgraduate student from [Economics and Management School](https://ems.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes Sino-US Economic and Trade Issues, International Finance，Digital Economy, and Global Supply Chain.
+I'm a first year postgraduate student from [Economics and Management School](https://ems.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes Sino-US Economic and Trade Issues, International Finance, Digital Economy, and Global Supply Chain.
 
 I am very fortunate to be advised by [Prof. Yuzhen](https://ems.whu.edu.cn/info/1688/11106.htm), the dean of Hongyi Honor College of Wuhan University. 
 
