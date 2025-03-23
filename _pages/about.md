@@ -18,9 +18,9 @@ You can find my CV here: [Shen Qingyu's Curriculum Vitae](assets/申庆昱简历
 Education Background
 ======
 
-2024.09-2027.06 Wuhan University，Master of Economy
+2024.09-2027.06 Wuhan University, Master of Economy
 
-2019.09-2024.06 Shandong University，Bachelor of Politics & Economy
+2019.09-2024.06 Shandong University, Bachelor of Politics & Economy
 
 Contact me
 ======
