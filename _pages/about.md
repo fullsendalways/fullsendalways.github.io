@@ -11,7 +11,7 @@ I'm a first year postgraduate student from [Economics and Management School](htt
 
 I am very fortunate to be advised by [Prof. Yuzhen](https://ems.whu.edu.cn/info/1688/11106.htm), the dean of Hongyi Honor College of Wuhan University. 
 
-You can find my CV here:[Shen Qingyu's Curriculum Vitae](assets/申庆昱简历20250323.pdf)
+You can find my CV here:[Shen Qingyu's Curriculum Vitae](master/assets/申庆昱简历20250323.pdf)
 
 
 
