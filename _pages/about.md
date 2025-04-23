@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Yuzhen](https://ems.whu.edu.cn/info/
 
 I plan to enter the industry after graduate studies and am actively searching for high-quality internships. If your company could offer me an opportunity, I would be extremely grateful!
 
-You can find my CV here: [Shen Qingyu's Curriculum Vitae](assets/申庆昱简历20250323.pdf)
+You can find my CV here: [Shen Qingyu's Curriculum Vitae](assets/申庆昱简历20250423.pdf)
 
 Education Background
 ======
